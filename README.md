@@ -8,7 +8,7 @@ The IIT Bombay English-Hindi corpus contains parallel corpus for English-Hindi a
 
 
 
-![Encoder -Decoder]([https://github.com/Saurabhgithub1006/English-to-hindi-Machine-Translation/blob/main/Images/Encoder-Decoder.jpg?raw=true](https://github.com/Saurabhgithub1006/English-to-hindi-Machine-Translation/blob/main/Images/1_R-Ul_DUk74cj79bPr5UalQ.gif?raw=true)
+![Encoder -Decoder](https://github.com/Saurabhgithub1006/English-to-hindi-Machine-Translation/blob/main/Images/1_R-Ul_DUk74cj79bPr5UalQ.gif?raw=true)
 
 
 
