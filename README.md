@@ -20,3 +20,7 @@ The IIT Bombay English-Hindi corpus contains parallel corpus for English-Hindi a
 
 ## Problem Statement: 
 You are provided with a large dataset of language pairs, parallelly in English and Hindi: you have to perform a step-by-step NLP approach to translate English to Hindi after splitting the dataset into train-test-validation sets.
+
+
+
+![Image](https://github.com/Saurabhgithub1006/English-to-hindi-Machine-Translation/blob/main/Images/Screenshot%20(309).png?raw=true)
