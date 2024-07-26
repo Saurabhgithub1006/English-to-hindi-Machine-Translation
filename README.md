@@ -1,1 +1,1 @@
-# English-to-hindi-machine-translation
+# English-to-hindi-Machine-Translation
